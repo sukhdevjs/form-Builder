@@ -1,3 +1,7 @@
+# Builder-Animation
+
+![Slider](./builder.gif)
+
 # Form Builder React (Drag & Drop)
 
 
